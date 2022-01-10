@@ -1,0 +1,87 @@
+{
+	"messageSource": "telemetry",
+	"telemetry": {
+		"timestamp": 1641786646985,
+		"values": [
+			{
+				"id": "OPC PLC.Device1.OpcPlc.Telemetry.Basic.StepUp",
+				"v": 22664,
+				"q": true,
+				"t": 1641786637146
+			},
+			{
+				"t": 1641786638145,
+				"id": "OPC PLC.Device1.OpcPlc.Telemetry.Basic.StepUp",
+				"v": 22674,
+				"q": true
+			},
+			{
+				"id": "OPC PLC.Device1.OpcPlc.Telemetry.Basic.StepUp",
+				"v": 22684,
+				"q": true,
+				"t": 1641786639146
+			},
+			{
+				"id": "OPC PLC.Device1.OpcPlc.Telemetry.Anomaly.SpikeData",
+				"v": 84.43279255020151,
+				"q": true,
+				"t": 1641786640058
+			},
+			{
+				"q": true,
+				"t": 1641786640146,
+				"id": "OPC PLC.Device1.OpcPlc.Telemetry.Basic.StepUp",
+				"v": 22694
+			},
+			{
+				"q": true,
+				"t": 1641786641145,
+				"id": "OPC PLC.Device1.OpcPlc.Telemetry.Basic.StepUp",
+				"v": 22704
+			},
+			{
+				"id": "OPC PLC.Device1.OpcPlc.Telemetry.Basic.StepUp",
+				"v": 22714,
+				"q": true,
+				"t": 1641786642145
+			},
+			{
+				"id": "OPC PLC.Device1.OpcPlc.Telemetry.Basic.StepUp",
+				"v": 22724,
+				"q": true,
+				"t": 1641786643145
+			},
+			{
+				"id": "OPC PLC.Device1.OpcPlc.Telemetry.Basic.StepUp",
+				"v": 22734,
+				"q": true,
+				"t": 1641786644146
+			},
+			{
+				"id": "OPC PLC.Device1.OpcPlc.Telemetry.Basic.StepUp",
+				"v": 22744,
+				"q": true,
+				"t": 1641786645146
+			},
+			{
+				"id": "OPC PLC.Device1.OpcPlc.Telemetry.Anomaly.SpikeData",
+				"v": 1000,
+				"q": true,
+				"t": 1641786645157
+			},
+			{
+				"q": true,
+				"t": 1641786646146,
+				"id": "OPC PLC.Device1.OpcPlc.Telemetry.Basic.StepUp",
+				"v": 22754
+			}
+		]
+	},
+	"schema": "default@v1",
+	"enqueuedTime": "2022-01-10T03:50:46.993Z",
+	"enrichments": {},
+	"templateId": "dtmi:modelDefinition:hq5usezej:b3thdkvnoh",
+	"applicationId": "6750dab1-caae-4876-9101-c1b05648c1e8",
+	"deviceId": "kepware",
+	"messageProperties": {}
+}
